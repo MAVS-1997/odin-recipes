@@ -1,0 +1,33 @@
+body{
+    border: 200px;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(220, 247, 67);
+    text-align: center;
+}
+img{
+    width: 400px;
+    height: auto;
+    align-items: center;
+}
+h1{
+    color: brown;
+    font-weight: bold;
+}
+
+.main-menu.ordered-list{
+    font-size: 20px;
+    background-color: rgba(85, 87, 75, 0.637);
+}
+
+.ordered-list{
+    text-align: justify;
+    background-color: rgba(215, 231, 120, 0.253);
+}
+
+ul{
+    background-color: beige;
+    text-align: justify;
+}
+
+
